@@ -1,6 +1,8 @@
 # webcache
-支持IE7以下的localstorage，sessionstorage，cookie
+支持IE7以下的localstorage，sessionstorage，cookie。
+
 示例：_webcache.sessionData.set("testsession1","testsession1")
+
 使用说明：用于前端 写入cookie及session storage的方法
  expires: 设置cookie的时效，默认为1天存储
  * ------------------------------------------------------------------------------------------- *
