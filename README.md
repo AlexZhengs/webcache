@@ -31,7 +31,7 @@
  
  **.set: 用于设置添加单个 param  必须：name, value  可选：expires, path, domain
  
- * ----- example --  _webcache.cookie.set("name","value",_webcache.expires(1,"Y"),"","") ----- *
+ ----- example --  _webcache.cookie.set("name","value",_webcache.expires(1,"Y"),"","") -----
  
  **.get: 用于获取单个 param 必须：name
  
